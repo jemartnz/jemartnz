@@ -1,37 +1,37 @@
-[Versión inglés](README_EN.md)
+[Spanish version](README.md)
 ![Banner](src/img/banner.jpg)
-# 👋 Hola, soy Juan Martinez
+# 👋 Hi, I'm Juan Martinez
 
-🧠 Desarrollador Web Full Stack  
-🚀 Apasionado por crear aplicaciones web útiles, claras y escalables  
-🛠️ Amante del backend, las APIs y el código bien estructurado  
+🧠 Full Stack Web Developer  
+🚀 Passionate about building useful, clean, and scalable web applications  
+🛠️ Backend enthusiast, APIs lover, and clean code advocate  
 
-Creo software pensando en:
-- personas  
-- rendimiento  
-- mantenibilidad  
-- crecimiento futuro  
-
----
-
-## 🧩 ¿Quién soy como desarrollador?
-
-Soy desarrollador Web Full Stack con experiencia práctica en proyectos reales.  
-Me gusta entender **cómo funcionan las cosas por dentro**, especialmente en el backend:  
-APIs, bases de datos, autenticación y arquitectura.
-
-Disfruto:
-- Resolver problemas reales con código  
-- Diseñar sistemas claros  
-- Aprender nuevas tecnologías  
-- Trabajar en equipo  
-- Mejorar mis proyectos paso a paso  
-
-Mi objetivo es seguir creciendo como desarrollador profesional y aportar valor en cada proyecto en el que participo.
+I build software thinking about:
+- people  
+- performance  
+- maintainability  
+- future growth  
 
 ---
 
-## 🛠️ Tecnologías con las que construyo
+## 🧩 Who am I as a developer?
+
+I am a Full Stack Web Developer with hands-on experience in real projects.  
+I enjoy understanding **how things work under the hood**, especially on the backend:  
+APIs, databases, authentication, and architecture.
+
+I enjoy:
+- Solving real problems with code  
+- Designing clear systems  
+- Learning new technologies  
+- Working in a team  
+- Improving my projects step by step  
+
+My goal is to keep growing as a professional developer and bring value to every project I take part in.
+
+---
+
+## 🛠️ Technologies I build with
 
 ### 🔙 Backend
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white)
@@ -50,7 +50,7 @@ Mi objetivo es seguir creciendo como desarrollador profesional y aportar valor e
 
 ---
 
-### 🗄️ Bases de datos
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -58,7 +58,7 @@ Mi objetivo es seguir creciendo como desarrollador profesional y aportar valor e
 
 ---
 
-### ⚙️ DevOps & herramientas
+### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-darkblue?style=for-the-badge&logo=github&logoColor=white)
@@ -67,52 +67,52 @@ Mi objetivo es seguir creciendo como desarrollador profesional y aportar valor e
 
 ---
 
-## 🚀 Proyecto destacado
+## 🚀 Featured Project
 
-### 🔄 Swapp — Intercambia sin complicaciones
+### 🔄 Swapp — Easy and secure trading
 
-Plataforma web diseñada para que los usuarios puedan intercambiar productos de forma segura y organizada.
+Web platform designed to allow users to exchange products in a safe and organized way.
 
-💡 ¿Qué resuelve?
-Permite conectar personas interesadas en intercambiar objetos sin necesidad de dinero, gestionando usuarios, mensajes y productos desde una plataforma centralizada.
+💡 What problem does it solve?  
+It connects people interested in trading items without using money, managing users, messages, and products from a centralized platform.
 
-**Características:**
-- Autenticación segura con JWT  
-- Sistema de mensajería entre usuarios  
-- Gestión de imágenes con Cloudinary  
-- Desarrollo contenerizado con Docker  
+**Features:**
+- Secure authentication using JWT  
+- User-to-user messaging system  
+- Image management with Cloudinary  
+- Containerized development with Docker  
 
-**Tecnologías:**  
+**Technologies:**  
 Flask · SQLAlchemy · React · Bootstrap · Docker  
 
-🔗 [Ver repositorio](https://github.com/jemartnz/swapp)
+🔗 [View repository](https://github.com/jemartnz/swapp)
 
 ---
 
-## 🧠 Cómo trabajo
+## 🧠 How I work
 
-- Pienso antes de programar  
-- Diseño antes de codificar  
-- Documento lo importante  
-- Busco soluciones simples  
-- Refactorizo cuando hace falta  
-
----
-
-## 🤝 Habilidades humanas
-
-- Trabajo en equipo  
-- Responsabilidad  
-- Capacidad de adaptación  
-- Organización  
-- Buen manejo del estrés  
-- Comunicación clara  
+- I think before I code  
+- I design before implementing  
+- I document what matters  
+- I look for simple solutions  
+- I refactor when needed  
 
 ---
 
-## 📫 ¿Hablamos?
+## 🤝 Soft Skills
 
-Si quieres colaborar, contratarme o simplemente charlar de tecnología:
+- Teamwork  
+- Responsibility  
+- Adaptability  
+- Organization  
+- Good stress management  
+- Clear communication  
+
+---
+
+## 📫 Want to talk?
+
+If you want to collaborate, hire me, or just chat about technology:
 
 [![Static Badge](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMjIzIiBoZWlnaHQ9IjIyMyIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZT0iI2ZmZiI%2BPGcgc3Ryb2tlLXdpZHRoPSIwIi8%2BPGcgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2U9IiNjY2MiIHN0cm9rZS13aWR0aD0iLjA5NiIvPjxwYXRoIGQ9Ik0xNiAxMmE0IDQgMCAxIDEtOCAwIDQgNCAwIDAgMSA4IDBtMCAwdjEuNWEyLjUgMi41IDAgMCAwIDIuNSAyLjV2MGEyLjUgMi41IDAgMCAwIDIuNS0yLjVWMTJhOSA5IDAgMSAwLTkgOWg0IiBzdHJva2U9IiNmNWY1ZjUiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D&logoColor=%23f5f5f5)
 ](mailto:je.martinez19@outlook.com)
@@ -121,6 +121,6 @@ Si quieres colaborar, contratarme o simplemente charlar de tecnología:
 
 ---
 
-## ⚡ Frase que me representa
+## ⚡ Quote that represents me
 
-> “Primero haz que funcione, luego haz que sea bonito, después haz que sea rápido.”
+> “First make it work, then make it beautiful, and finally make it fast.”
