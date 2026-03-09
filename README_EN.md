@@ -2,44 +2,19 @@
 ![Banner](src/img/banner.jpg)
 # 👋 Hi, I'm Juan Martinez
 
-🧠 Full Stack Web Developer  
-🚀 Passionate about building useful, clean, and scalable web applications  
-🛠️ Backend enthusiast, APIs lover, and clean code advocate  
+Full Stack Web Developer with a strong focus on backend: APIs, software architecture, and clean, maintainable code.
+I care about understanding how things work under the hood — I design before I code and build with performance and long-term maintainability in mind.
 
-I build software thinking about:
-- people  
-- performance  
-- maintainability  
-- future growth  
+I thrive in teams, adapt quickly, and always aim for the simplest solution that actually solves the problem.
 
 ---
 
-## 🧩 Who am I as a developer?
-
-I am a Full Stack Web Developer with hands-on experience in real projects.  
-I enjoy understanding **how things work under the hood**, especially on the backend:  
-APIs, databases, authentication, and architecture.
-
-I enjoy:
-- Solving real problems with code  
-- Designing clear systems  
-- Learning new technologies  
-- Working in a team  
-- Improving my projects step by step  
-
-My goal is to keep growing as a professional developer and bring value to every project I take part in.
-
----
-
-## 🛠️ Technologies I build with
+## 🛠️ Technologies
 
 ### 🔙 Backend
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge)
-
----
 
 ### 🎨 Frontend
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,15 +23,10 @@ My goal is to keep growing as a professional developer and bring value to every 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-lightgrey?style=for-the-badge&logo=react)
 
----
-
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-blue?style=for-the-badge)
-
----
 
 ### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
@@ -67,52 +37,42 @@ My goal is to keep growing as a professional developer and bring value to every 
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🔄 Swapp — Easy and secure trading
+### ☀️ Sun — REST API with Clean Architecture
 
-Web platform designed to allow users to exchange products in a safe and organized way.
+REST API built with .NET 10 and C# 14, focused on modern backend architecture and engineering best practices.
 
-💡 What problem does it solve?  
-It connects people interested in trading items without using money, managing users, messages, and products from a centralized platform.
+- Clean Architecture + CQRS with MediatR
+- JWT with Refresh Token rotation and Argon2id hashing
+- 128 tests — unit, handler-level, and full integration via Testcontainers
+- CI with GitHub Actions + Dockerized
 
-**Features:**
-- Secure authentication using JWT  
-- User-to-user messaging system  
-- Image management with Cloudinary  
-- Containerized development with Docker  
+**Technologies:** .NET 10 · C# · SQL Server · Docker · xUnit
 
-**Technologies:**  
-Flask · SQLAlchemy · React · Bootstrap · Docker  
+[![CI](https://github.com/jemartnz/Sun/actions/workflows/ci.yml/badge.svg)](https://github.com/jemartnz/Sun/actions/workflows/ci.yml)
+🔗 [View repository](https://github.com/jemartnz/Sun)
+
+---
+
+### 🔄 Swapp — Trade Without Money
+
+Web platform where users can exchange goods and services without cash — connecting people who want to trade through a centralized, secure hub.
+
+- JWT authentication
+- Real-time messaging between users
+- Image management via Cloudinary
+- Fully containerized with Docker
+
+**Technologies:** Flask · SQLAlchemy · React · Bootstrap · Docker
 
 🔗 [View repository](https://github.com/jemartnz/swapp)
 
 ---
 
-## 🧠 How I work
+## 📫 Get in Touch
 
-- I think before I code  
-- I design before implementing  
-- I document what matters  
-- I look for simple solutions  
-- I refactor when needed  
-
----
-
-## 🤝 Soft Skills
-
-- Teamwork  
-- Responsibility  
-- Adaptability  
-- Organization  
-- Good stress management  
-- Clear communication  
-
----
-
-## 📫 Want to talk?
-
-If you want to collaborate, hire me, or just chat about technology:
+Open to collaborating, new opportunities, or just talking tech:
 
 [![Static Badge](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMjIzIiBoZWlnaHQ9IjIyMyIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZT0iI2ZmZiI%2BPGcgc3Ryb2tlLXdpZHRoPSIwIi8%2BPGcgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2U9IiNjY2MiIHN0cm9rZS13aWR0aD0iLjA5NiIvPjxwYXRoIGQ9Ik0xNiAxMmE0IDQgMCAxIDEtOCAwIDQgNCAwIDAgMSA4IDBtMCAwdjEuNWEyLjUgMi41IDAgMCAwIDIuNSAyLjV2MGEyLjUgMi41IDAgMCAwIDIuNS0yLjVWMTJhOSA5IDAgMSAwLTkgOWg0IiBzdHJva2U9IiNmNWY1ZjUiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D&logoColor=%23f5f5f5)
 ](mailto:je.martinez19@outlook.com)
@@ -121,6 +81,6 @@ If you want to collaborate, hire me, or just chat about technology:
 
 ---
 
-## ⚡ Quote that represents me
+## ⚡ A quote I live by
 
-> “First make it work, then make it beautiful, and finally make it fast.”
+> "First make it work, then make it beautiful, and finally make it fast."

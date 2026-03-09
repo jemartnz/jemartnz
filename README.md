@@ -1,45 +1,20 @@
 [Versión inglés](README_EN.md)
 ![Banner](src/img/banner.jpg)
-# 👋 Hola, soy Juan Martinez
+# 👋 Hola, soy Juan Martinez                       
+  
+  Desarrollador Web Full Stack con enfoque en backend: APIs, arquitectura y codigo bien estructurado.
+  Me gusta entender como funcionan las cosas por dentro, diseñar antes de codificar y construir
+  software pensando en rendimiento y mantenibilidad.
 
-🧠 Desarrollador Web Full Stack  
-🚀 Apasionado por crear aplicaciones web útiles, claras y escalables  
-🛠️ Amante del backend, las APIs y el código bien estructurado  
-
-Creo software pensando en:
-- personas  
-- rendimiento  
-- mantenibilidad  
-- crecimiento futuro  
+  Trabajo en equipo, me adapto rapido y busco siempre la solucion mas simple que resuelva el problema. 
 
 ---
-
-## 🧩 ¿Quién soy como desarrollador?
-
-Soy desarrollador Web Full Stack con experiencia práctica en proyectos reales.  
-Me gusta entender **cómo funcionan las cosas por dentro**, especialmente en el backend:  
-APIs, bases de datos, autenticación y arquitectura.
-
-Disfruto:
-- Resolver problemas reales con código  
-- Diseñar sistemas claros  
-- Aprender nuevas tecnologías  
-- Trabajar en equipo  
-- Mejorar mis proyectos paso a paso  
-
-Mi objetivo es seguir creciendo como desarrollador profesional y aportar valor en cada proyecto en el que participo.
-
----
-
-## 🛠️ Tecnologías con las que construyo
+## 🛠️ Tecnologías
 
 ### 🔙 Backend
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge)
-
----
 
 ### 🎨 Frontend
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,15 +23,10 @@ Mi objetivo es seguir creciendo como desarrollador profesional y aportar valor e
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-lightgrey?style=for-the-badge&logo=react)
 
----
-
 ### 🗄️ Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-blue?style=for-the-badge)
-
----
 
 ### ⚙️ DevOps & herramientas
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
@@ -66,50 +36,37 @@ Mi objetivo es seguir creciendo como desarrollador profesional y aportar valor e
 ![REST](https://img.shields.io/badge/REST_APIs-blue?style=for-the-badge)
 
 ---
+## 🚀 Proyectos destacados
 
-## 🚀 Proyecto destacado
+### ☀️ Sun — API REST con Clean Architecture                                                                                    
 
-### 🔄 Swapp — Intercambia sin complicaciones
+  API REST con .NET 10 y C# 14. Arquitectura moderna enfocada en buenas practicas de backend.
 
-Plataforma web diseñada para que los usuarios puedan intercambiar productos de forma segura y organizada.
+  - Clean Architecture + CQRS con MediatR
+  - JWT con Refresh Tokens y Argon2id
+  - 128 tests (unitarios + integracion con Testcontainers)
+  - CI con GitHub Actions + Dockerizado
 
-💡 ¿Qué resuelve?
-Permite conectar personas interesadas en intercambiar objetos sin necesidad de dinero, gestionando usuarios, mensajes y productos desde una plataforma centralizada.
+  **Tecnologias:** .NET 10 · C# · SQL Server · Docker · xUnit
 
-**Características:**
-- Autenticación segura con JWT  
-- Sistema de mensajería entre usuarios  
-- Gestión de imágenes con Cloudinary  
-- Desarrollo contenerizado con Docker  
-
-**Tecnologías:**  
-Flask · SQLAlchemy · React · Bootstrap · Docker  
-
-🔗 [Ver repositorio](https://github.com/jemartnz/swapp)
+  [![CI](https://github.com/jemartnz/Sun/actions/workflows/ci.yml/badge.svg)](https://github.com/jemartnz/Sun/actions/workflows/ci.yml)
+  🔗 [Ver repositorio](https://github.com/jemartnz/Sun)
 
 ---
 
-## 🧠 Cómo trabajo
+### 🔄 Swapp — Plataforma de Trueques
 
-- Pienso antes de programar  
-- Diseño antes de codificar  
-- Documento lo importante  
-- Busco soluciones simples  
-- Refactorizo cuando hace falta  
+  Plataforma web para intercambiar productos y servicios sin dinero entre usuarios.                                                                
+  - Autenticación con JWT                                                                                                                       
+  - Sistema de mensajería entre usuarios
+  - Gestión de imágenes con Cloudinary
+  - Desarrollo contenerizado con Docker
 
----
+  **Tecnologías:** Flask · SQLAlchemy · React · Bootstrap · Docker
 
-## 🤝 Habilidades humanas
-
-- Trabajo en equipo  
-- Responsabilidad  
-- Capacidad de adaptación  
-- Organización  
-- Buen manejo del estrés  
-- Comunicación clara  
+  🔗 [Ver repositorio](https://github.com/jemartnz/swapp)
 
 ---
-
 ## 📫 ¿Hablamos?
 
 Si quieres colaborar, contratarme o simplemente charlar de tecnología:
